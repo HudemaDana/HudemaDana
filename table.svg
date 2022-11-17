@@ -1,0 +1,296 @@
+<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+ 
+        <body xmlns="http://www.w3.org/1999/xhtml">
+
+            <style>
+                .flex-container {
+                    display: flex;
+                }
+        
+                .flex-child {
+                    margin: 2px;
+                    height: 175px;
+                    flex: 3;
+                    border: white 1px solid;
+                    border-radius: 8px;
+                    background-color: #21262d;
+        
+                }
+        
+                ul,
+                li {
+        
+                    list-style-type: none !important;
+                    padding-left: 13px;
+                }
+        
+        
+                a {
+                    color: white;
+                    text-decoration: none !important;
+                    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+                    font-size: 12px;
+                    font-weight: 500;
+        
+                }
+        
+                h3 {
+                    padding-left: 13px;
+                }
+        
+                h3,
+                a:hover {
+                    color: #57bdda;
+                    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+                }
+            </style>
+
+            <div class="main">
+
+                <div class="flex-container">
+        
+                    <div class="flex-child">
+                        <h3>Semester 1</h3>
+                        <ul>
+                            <li>
+                                <a href="https://github.com/HudemaDana/Algebra">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" viewBox="0 0 24 20"
+                                        fill="none" stroke="#57bdda" stroke-width="2" stroke-linecap="round"
+                                        stroke-linejoin="round">
+                                        <circle cx="11.5" cy="8.5" r="5.5" />
+                                        <path d="M11.5 14v7" />
+                                    </svg>
+                                    Algebra
+                                </a>
+        
+                            </li>
+                            <li>
+        
+                                <a href="https://github.com/HudemaDana/Computer-System-Architecture">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" viewBox="0 0 24 20"
+                                        fill="none" stroke="#57bdda" stroke-width="2" stroke-linecap="round"
+                                        stroke-linejoin="round">
+                                        <circle cx="11.5" cy="8.5" r="5.5" />
+                                        <path d="M11.5 14v7" />
+                                    </svg>
+                                    Computer System Architecture
+                                </a>
+        
+                            </li>
+                            <li>
+        
+                                <a href="https://github.com/HudemaDana/Fundamentals-of-Programming">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" viewBox="0 0 24 20"
+                                        fill="none" stroke="#57bdda" stroke-width="2" stroke-linecap="round"
+                                        stroke-linejoin="round">
+                                        <circle cx="11.5" cy="8.5" r="5.5" />
+                                        <path d="M11.5 14v7" />
+                                    </svg>
+                                    Fundamentals of Programming
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+        
+                    <div class="flex-child">
+                        <h3>Semester 2</h3>
+                        <ul>
+                            <li>
+                                <a href="https://github.com/HudemaDana/Operating-Systems">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" viewBox="0 0 24 20"
+                                        fill="none" stroke="#57bdda" stroke-width="2" stroke-linecap="round"
+                                        stroke-linejoin="round">
+                                        <circle cx="11.5" cy="8.5" r="5.5" />
+                                        <path d="M11.5 14v7" />
+                                    </svg>
+                                    Operating Systems
+                                </a>
+        
+                            </li>
+                            <li>
+        
+                                <a href="https://github.com/HudemaDana/Data-Structures-and-Algorithms">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" viewBox="0 0 24 20"
+                                        fill="none" stroke="#57bdda" stroke-width="2" stroke-linecap="round"
+                                        stroke-linejoin="round">
+                                        <circle cx="11.5" cy="8.5" r="5.5" />
+                                        <path d="M11.5 14v7" />
+                                    </svg>
+                                    Data Structures and Algorithms
+                                </a>
+        
+                            </li>
+                            <li>
+        
+                                <a href="https://github.com/HudemaDana/Graph-Algorithms">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" viewBox="0 0 24 20"
+                                        fill="none" stroke="#57bdda" stroke-width="2" stroke-linecap="round"
+                                        stroke-linejoin="round">
+                                        <circle cx="11.5" cy="8.5" r="5.5" />
+                                        <path d="M11.5 14v7" />
+                                    </svg>
+                                    Graph Algorithms
+                                </a>
+        
+                            </li>
+                            <li>
+        
+                                <a href="https://github.com/HudemaDana/Object-Oriented-Programming">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" viewBox="0 0 24 20"
+                                        fill="none" stroke="#57bdda" stroke-width="2" stroke-linecap="round"
+                                        stroke-linejoin="round">
+                                        <circle cx="11.5" cy="8.5" r="5.5" />
+                                        <path d="M11.5 14v7" />
+                                    </svg>
+                                    Object Oriented Programming
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+        
+                    <div class="flex-child">
+                        <h3>Semester 3</h3>
+                        <ul>
+                            <li>
+                                <a href="https://github.com/HudemaDana/Advanced-Programming-Methods">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" viewBox="0 0 24 20"
+                                        fill="none" stroke="#57bdda" stroke-width="2" stroke-linecap="round"
+                                        stroke-linejoin="round">
+                                        <circle cx="11.5" cy="8.5" r="5.5" />
+                                        <path d="M11.5 14v7" />
+                                    </svg>
+                                    Advanced Programming Methods
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://github.com/HudemaDana/Databases">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" viewBox="0 0 24 20"
+                                        fill="none" stroke="#57bdda" stroke-width="2" stroke-linecap="round"
+                                        stroke-linejoin="round">
+                                        <circle cx="11.5" cy="8.5" r="5.5" />
+                                        <path d="M11.5 14v7" />
+                                    </svg>
+                                    Databases
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://github.com/HudemaDana/Computer-Networks">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" viewBox="0 0 24 20"
+                                        fill="none" stroke="#57bdda" stroke-width="2" stroke-linecap="round"
+                                        stroke-linejoin="round">
+                                        <circle cx="11.5" cy="8.5" r="5.5" />
+                                        <path d="M11.5 14v7" />
+                                    </svg>
+                                    Computer Networks
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://github.com/HudemaDana/Probabilities-and-Statistics">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" viewBox="0 0 24 20"
+                                        fill="none" stroke="#57bdda" stroke-width="2" stroke-linecap="round"
+                                        stroke-linejoin="round">
+                                        <circle cx="11.5" cy="8.5" r="5.5" />
+                                        <path d="M11.5 14v7" />
+                                    </svg>
+                                    Probabilities and Statistics
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://github.com/HudemaDana/Logic-and-Functional-Programming">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" viewBox="0 0 24 20"
+                                        fill="none" stroke="#57bdda" stroke-width="2" stroke-linecap="round"
+                                        stroke-linejoin="round">
+                                        <circle cx="11.5" cy="8.5" r="5.5" />
+                                        <path d="M11.5 14v7" />
+                                    </svg>
+                                    Logic and Functional Programming
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+        
+                </div>
+        
+                <div class="flex-container">
+        
+                    <div class="flex-child">
+                        <h3>Semester 4</h3>
+                        <ul>
+                            <li>
+                                <a href="https://github.com/HudemaDana/WebProgramming">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" viewBox="0 0 24 20"
+                                        fill="none" stroke="#57bdda" stroke-width="2" stroke-linecap="round"
+                                        stroke-linejoin="round">
+                                        <circle cx="11.5" cy="8.5" r="5.5" />
+                                        <path d="M11.5 14v7" />
+                                    </svg>
+                                    Web Programming
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://github.com/HudemaDana/ArtificialIntelligence">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" viewBox="0 0 24 20"
+                                        fill="none" stroke="#57bdda" stroke-width="2" stroke-linecap="round"
+                                        stroke-linejoin="round">
+                                        <circle cx="11.5" cy="8.5" r="5.5" />
+                                        <path d="M11.5 14v7" />
+                                    </svg>
+                                    Artificial Intelligence
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://github.com/HudemaDana/Systems-For-Design-And-Implementation">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" viewBox="0 0 24 20"
+                                        fill="none" stroke="#57bdda" stroke-width="2" stroke-linecap="round"
+                                        stroke-linejoin="round">
+                                        <circle cx="11.5" cy="8.5" r="5.5" />
+                                        <path d="M11.5 14v7" />
+                                    </svg>
+                                    Systems For Design And Implementation
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://github.com/HudemaDana/Database-Management-Systems">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" viewBox="0 0 24 20"
+                                        fill="none" stroke="#57bdda" stroke-width="2" stroke-linecap="round"
+                                        stroke-linejoin="round">
+                                        <circle cx="11.5" cy="8.5" r="5.5" />
+                                        <path d="M11.5 14v7" />
+                                    </svg>
+                                    Database Management Systems
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+        
+                    <div class="flex-child">
+                        <h3>Semester 5</h3>
+                        <div style="text-align: center">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="53" height="53" viewBox="0 0 24 24" fill="none"
+                                stroke="#57bdda" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                <polygon points="7.86 2 16.14 2 22 7.86 22 16.14 16.14 22 7.86 22 2 16.14 2 7.86 7.86 2">
+                                </polygon>
+                                <line x1="12" y1="8" x2="12" y2="12"></line>
+                                <line x1="12" y1="16" x2="12.01" y2="16"></line>
+                            </svg>
+                        </div>
+                    </div>
+                    <div class="flex-child">
+                        <h3>Semester 6</h3>
+                        <div style="text-align: center">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="53" height="53" viewBox="0 0 24 24" fill="none"
+                                stroke="#57bdda" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                <polygon points="7.86 2 16.14 2 22 7.86 22 16.14 16.14 22 7.86 22 2 16.14 2 7.86 7.86 2">
+                                </polygon>
+                                <line x1="12" y1="8" x2="12" y2="12"></line>
+                                <line x1="12" y1="16" x2="12.01" y2="16"></line>
+                            </svg>
+                        </div>
+                    </div>
+        
+                </div>
+            </div>
+        </body>
+    </foreignObject>
+</svg>
