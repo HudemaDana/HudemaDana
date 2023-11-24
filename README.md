@@ -85,7 +85,7 @@
                 </a>
             </li>
             <li>
-                <a href="https://github.com/HudemaDana/Artificial-Intelligence">
+                <a href="https://github.com/HudemaDana/Artificial_Intelligence">
                     Artificial Intelligence
                 </a>
             </li>
