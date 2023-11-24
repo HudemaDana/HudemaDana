@@ -104,7 +104,6 @@
     <li> 📙 Semester 5
         <ul> 
             <li>
-                <li>
                 <a href="https://github.com/HudemaDana/FLCD">
                     Formal Languages 
                 </a>
@@ -128,7 +127,6 @@
                 <a href="https://github.com/HudemaDana/">
                     Parallel Programming
                 </a>
-            </li>
             </li>
         </ul>
     </li>
