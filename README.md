@@ -104,9 +104,31 @@
     <li> 📙 Semester 5
         <ul> 
             <li>
-                <a href="">
-                    Will come later
+                <li>
+                <a href="https://github.com/HudemaDana/FLCD">
+                    Formal Languages 
                 </a>
+            </li>
+            <li>
+                <a href="https://github.com/HudemaDana/">
+                    Mobile
+                </a>
+            </li>
+            <li>
+                <a href="https://github.com/HudemaDana/">
+                    Virtual Reality
+                </a>
+            </li>
+            <li>
+                <a href="https://github.com/HudemaDana/">
+                    Criptography
+                </a>
+            </li>
+            <li>
+                <a href="https://github.com/HudemaDana/">
+                    Parallel Programming
+                </a>
+            </li>
             </li>
         </ul>
     </li>
