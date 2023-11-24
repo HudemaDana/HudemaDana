@@ -80,12 +80,12 @@
     <li> 📔 Semester 4
         <ul> 
             <li>
-                <a href="https://github.com/HudemaDana/WebProgramming">
+                <a href="https://github.com/HudemaDana/Web">
                     Web Programming 
                 </a>
             </li>
             <li>
-                <a href="https://github.com/HudemaDana/ArtificialIntelligence">
+                <a href="https://github.com/HudemaDana/Artificial-Intelligence">
                     Artificial Intelligence
                 </a>
             </li>
@@ -95,7 +95,7 @@
                 </a>
             </li>
             <li>
-                <a href="https://github.com/HudemaDana/Database-Management-Systems">
+                <a href="https://github.com/HudemaDana/DB">
                     Database Management Systems
                 </a>
             </li>
