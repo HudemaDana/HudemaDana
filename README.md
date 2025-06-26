@@ -6,7 +6,7 @@
 
 ---
 
-### 🐝 About Me
+### 🧝 About Me
 
 - 💼 Working primarily with **.NET & C#**
 - 🎓 Computer Science student passionate about **software engineering**, **algorithms**, and **AI**
@@ -112,5 +112,5 @@
 ---
 
 <p align="center">
-  Thanks for visiting 🌟 — hope you found the cool thing you were looking for!
+  Thanks for visiting this dungeon 🧙‍♂️ — hope you found the cool thing you were looking for!
 </p>
