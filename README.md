@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Dana 👋</h1>
+<h1 align="center">Hey, I'm Dana 🌻</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3F8AC2&center=true&vCenter=true&width=500&lines=.NET+Developer+%7C+CS+Student+%7C+Problem+Solver;Always+learning+%F0%9F%9A%80+Always+building" alt="Typing SVG" />
@@ -6,7 +6,7 @@
 
 ---
 
-### 👩‍💻 About Me
+### 🐝 About Me
 
 - 💼 Working primarily with **.NET & C#**
 - 🎓 Computer Science student passionate about **software engineering**, **algorithms**, and **AI**
@@ -23,7 +23,6 @@
   <!-- Programming languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" />
 
   <!-- Web tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
@@ -32,7 +31,6 @@
 
   <!-- Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/sql-original.svg" width="40" height="40" />
 </p>
 
 ---
