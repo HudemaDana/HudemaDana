@@ -96,14 +96,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=HudemaDana&show_icons=true&theme=tokyonight&hide=issues&count_private=true" width="48%" />
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HudemaDana&layout=compact&theme=tokyonight" width="48%" />
-</p>
-
-<p align="center">
   <!-- GitHub Streak Stats -->
   <img src="https://streak-stats.demolab.com?user=HudemaDana&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="90%" />
 </p>
@@ -117,9 +109,8 @@
 ### 📫 Let's Connect
 
 <p align="left">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="mailto:hudema.dana@gmail.com"><img src="https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/dana-hudema-191863231/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
