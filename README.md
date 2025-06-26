@@ -1,142 +1,118 @@
-<ul>
-    <li>:closed_book: Semester 1
-        <ul>
-            <li>
-                <a href="https://github.com/HudemaDana/Algebra">
-                    Algebra
-                </a>
-            </li>
-            <li>
-                <a href="https://github.com/HudemaDana/Computer-System-Architecture">
-                    Computer System Architecture
-                </a>
-            </li>
-            <li>
-                <a href="https://github.com/HudemaDana/Fundamentals-of-Programming">
-                    Fundamentals of Programming
-                </a>
-            </li>
-        </ul>
-    </li>
-    <li>:green_book: Semester 2
-        <ul>
-            <li>
-                <a href="https://github.com/HudemaDana/Operating-Systems">
-                    Operating Systems
-                </a>
-            </li>
-        </ul>
-        <ul>
-            <li>
-                <a href="https://github.com/HudemaDana/Data-Structures-and-Algorithms">
-                    Data Structures and Algorithms
-                </a>
-            </li>
-        </ul>
-        <ul>
-            <li>
-                <a href="https://github.com/HudemaDana/Graph-Algorithms">
-                    Graph Algorithms
-                </a>
-            </li>
-        </ul>
-        <ul>
-            <li>
-                <a href="https://github.com/HudemaDana/Object-Oriented-Programming">
-                    Object Oriented Programming
-                </a>
-            </li>
-        </ul>
-    </li>
-    <li>:blue_book: Semester 3
-        <ul>
-            <li>
-                <a href="https://github.com/HudemaDana/Advanced-Programming-Methods">
-                    Advanced Programming Methods
-                </a>
-            </li>
-            <li>
-                <a href="https://github.com/HudemaDana/Databases">
-                    Databases
-                </a>
-            </li>
-            <li>
-                <a href="https://github.com/HudemaDana/Computer-Networks">
-                    Computer Networks
-                </a>
-            </li>
-            <li>
-                <a href="https://github.com/HudemaDana/Probabilities-and-Statistics">
-                    Probabilities and Statistics
-                </a>
-            </li>
-            <li>
-                <a href="https://github.com/HudemaDana/Logic-and-Functional-Programming">
-                   Logic and Functional Programming
-                </a>
-            </li>
-        </ul>
-    </li>
-    <li> 📔 Semester 4
-        <ul> 
-            <li>
-                <a href="https://github.com/HudemaDana/Web">
-                    Web Programming 
-                </a>
-            </li>
-            <li>
-                <a href="https://github.com/HudemaDana/Artificial_Intelligence">
-                    Artificial Intelligence
-                </a>
-            </li>
-            <li>
-                <a href="https://github.com/HudemaDana/Systems-For-Design-And-Implementation">
-                    Systems For Design And Implementation
-                </a>
-            </li>
-            <li>
-                <a href="https://github.com/HudemaDana/DB">
-                    Database Management Systems
-                </a>
-            </li>
-        </ul>
-    </li>
-    <li> 📙 Semester 5
-        <ul> 
-            <li>
-                <a href="https://github.com/HudemaDana/FLCD">
-                    Formal Languages 
-                </a>
-            </li>
-            <li>
-                <a href="https://github.com/HudemaDana/">
-                    Mobile
-                </a>
-            </li>
-            <li>
-                <a href="https://github.com/HudemaDana/">
-                    Virtual Reality
-                </a>
-            </li>
-            <li>
-                <a href="https://github.com/HudemaDana/">
-                    Criptography
-                </a>
-            </li>
-            <li>
-                <a href="https://github.com/HudemaDana/">
-                    Parallel Programming
-                </a>
-            </li>
-        </ul>
-    </li>
-     <li> 📙 Semester 6
-        <ul> 
-            <li>
-                <a href="">
-                    Will come later
-                </a>
-            </li>
-        </ul>
-    </li>
-</ul>
+<h1 align="center">Hi there, I'm Dana Hudema 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=3F8AC2&center=true&vCenter=true&multiline=true&lines=Computer+Science+Student;Always+learning+and+building;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+</p>
+
+---
+
+## 🧰 Tech Stack
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+</p>
+
+---
+
+## 📚 My University Projects
+
+<details>
+  <summary>📘 Semester 1</summary>
+  
+- [Algebra](https://github.com/HudemaDana/Algebra)
+- [Computer System Architecture](https://github.com/HudemaDana/Computer-System-Architecture)
+- [Fundamentals of Programming](https://github.com/HudemaDana/Fundamentals-of-Programming)
+
+</details>
+
+<details>
+  <summary>📗 Semester 2</summary>
+
+- [Operating Systems](https://github.com/HudemaDana/Operating-Systems)
+- [Data Structures and Algorithms](https://github.com/HudemaDana/Data-Structures-and-Algorithms)
+- [Graph Algorithms](https://github.com/HudemaDana/Graph-Algorithms)
+- [Object Oriented Programming](https://github.com/HudemaDana/Object-Oriented-Programming)
+
+</details>
+
+<details>
+  <summary>📘 Semester 3</summary>
+
+- [Advanced Programming Methods](https://github.com/HudemaDana/Advanced-Programming-Methods)
+- [Databases](https://github.com/HudemaDana/Databases)
+- [Computer Networks](https://github.com/HudemaDana/Computer-Networks)
+- [Probabilities and Statistics](https://github.com/HudemaDana/Probabilities-and-Statistics)
+- [Logic and Functional Programming](https://github.com/HudemaDana/Logic-and-Functional-Programming)
+
+</details>
+
+<details>
+  <summary>📙 Semester 4</summary>
+
+- [Web Programming](https://github.com/HudemaDana/Web)
+- [Artificial Intelligence](https://github.com/HudemaDana/Artificial_Intelligence)
+- [Systems For Design And Implementation](https://github.com/HudemaDana/Systems-For-Design-And-Implementation)
+- [Database Management Systems](https://github.com/HudemaDana/DB)
+
+</details>
+
+<details>
+  <summary>📕 Semester 5</summary>
+
+- [Formal Languages](https://github.com/HudemaDana/FLCD)
+- [Mobile](https://github.com/HudemaDana/)
+- [Virtual Reality](https://github.com/HudemaDana/)
+- [Cryptography](https://github.com/HudemaDana/)
+- [Parallel Programming](https://github.com/HudemaDana/)
+
+</details>
+
+<details>
+  <summary>📒 Semester 6</summary>
+
+- Coming Soon...
+
+</details>
+
+---
+
+## 🌟 Featured Projects
+
+<!-- You can manually update this to highlight your best work -->
+- 🔍 **[Graph Algorithms Visualizer](https://github.com/HudemaDana/Graph-Algorithms)** – An interactive project showing graph traversals.
+- 🧠 **[Artificial Intelligence](https://github.com/HudemaDana/Artificial_Intelligence)** – Cool AI implementations.
+- 🌐 **[Web Programming](https://github.com/HudemaDana/Web)** – Full-stack web dev work.
+
+---
+
+## 📈 GitHub Stats & Trophies
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HudemaDana&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HudemaDana&layout=compact&theme=tokyonight" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HudemaDana&theme=algolia&row=1&no-bg=true" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</p>
+
+
+⭐️ Thank you for visiting! Feel free to check out my repositories and connect!
+
