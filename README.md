@@ -10,7 +10,6 @@
 
 - 💼 Working primarily with **.NET & C#**
 - 🎓 Computer Science student passionate about **software engineering**, **algorithms**, and **AI**
-- 🌱 Currently learning **Mobile Development**, **Parallel Programming**, and **Cryptography**
   
 ---
 
@@ -23,7 +22,6 @@
 
   <!-- Programming languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" />
 
@@ -34,7 +32,7 @@
 
   <!-- Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/sql-original.svg" width="40" height="40" />
 </p>
 
 ---
