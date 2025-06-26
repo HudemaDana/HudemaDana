@@ -11,8 +11,7 @@
 - 💼 Working primarily with **.NET & C#**
 - 🎓 Computer Science student passionate about **software engineering**, **algorithms**, and **AI**
 - 🌱 Currently learning **Mobile Development**, **Parallel Programming**, and **Cryptography**
-- 🧠 Constantly exploring new technologies and solving real-world problems
-
+  
 ---
 
 ### 🧰 Tech Stack
@@ -97,18 +96,22 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HudemaDana&show_icons=true&theme=tokyonight" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HudemaDana&layout=compact&theme=tokyonight" width="45%" />
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=HudemaDana&show_icons=true&theme=tokyonight&hide=issues&count_private=true" width="48%" />
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HudemaDana&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
----
+<p align="center">
+  <!-- GitHub Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=HudemaDana&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="90%" />
+</p>
 
-### 📝 Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- Coming soon...
-<!-- BLOG-POST-LIST:END -->
-
+<p align="center">
+  <!-- GitHub Trophy Wall -->
+  <img src="https://github-profile-trophy.vercel.app/?username=HudemaDana&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 ---
 
 ### 📫 Let's Connect
