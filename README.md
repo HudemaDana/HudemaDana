@@ -1,90 +1,80 @@
-<h1 align="center">Hey, I'm Dana 🌻</h1>
+<h1 align="center" style="color:#C0C0C0;">Hi, Dana Here 🌻</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3F8AC2&center=true&vCenter=true&width=500&lines=.NET+Developer+%7C+CS+Student+%7C+Problem+Solver;Always+learning+%F0%9F%9A%80+Always+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFDB58&center=true&vCenter=true&width=500&lines=.NET+Developer+%7C+Problem+Solver+" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🧝 About Me
+### 🐝 About Me
 
-- 💼 Working primarily with **.NET & C#**
-- 🎓 Computer Science student passionate about **software engineering**, **algorithms**, and **AI**
-  
+- 🏵️ Working with **.NET & C#** backend technologies
+- 🏵️ CS student diving deep into **AI**, **architecture**, and **clean code**
+- 🏵️ Passionate about writing efficient and maintainable software
+
 ---
 
-### 🧰 Tech Stack
+### 🌺 Tech Stack
 
 <p align="left">
-  <!-- Highlighted stack -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="48" height="48" alt=".NET" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
-
-  <!-- Programming languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
-
-  <!-- Web tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
-
-  <!-- Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" alt=".NET" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" alt="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
 </p>
 
 ---
 
-### 🌟 Featured Projects
+### 🪐 Featured Projects
 
-> A few highlights from my GitHub repositories:
-
-- 🔍 [**Graph Algorithms Visualizer**](https://github.com/HudemaDana/Graph-Algorithms)  
-  Interactive traversal and shortest-path visualizer
-- 🧠 [**AI Mini Projects**](https://github.com/HudemaDana/Artificial_Intelligence)  
-  Logic solvers, agents, and more
-- 🌐 [**Web Programming**](https://github.com/HudemaDana/Web)  
-  Full-stack apps using modern tools
+- ⭐ [Graph Algorithms Visualizer](https://github.com/HudemaDana/Graph-Algorithms)
+- ⭐ [AI Mini Projects](https://github.com/HudemaDana/Artificial_Intelligence)
+- ⭐ [Web Projects](https://github.com/HudemaDana/Web)
 
 ---
 
-### 🎓 University Projects
+### 🌝 University Projects
 
 <details>
-  <summary>📘 Semester 1–2</summary>
+  <summary>🌘 Semester 1–2</summary>
 
-- [Algebra](https://github.com/HudemaDana/Algebra)  
-- [Computer System Architecture](https://github.com/HudemaDana/Computer-System-Architecture)  
-- [Fundamentals of Programming](https://github.com/HudemaDana/Fundamentals-of-Programming)  
-- [Operating Systems](https://github.com/HudemaDana/Operating-Systems)  
-- [Data Structures and Algorithms](https://github.com/HudemaDana/Data-Structures-and-Algorithms)  
-- [Graph Algorithms](https://github.com/HudemaDana/Graph-Algorithms)  
-- [Object Oriented Programming](https://github.com/HudemaDana/Object-Oriented-Programming)  
+- [Algebra](https://github.com/HudemaDana/Algebra)
+- [Computer System Architecture](https://github.com/HudemaDana/Computer-System-Architecture)
+- [Fundamentals of Programming](https://github.com/HudemaDana/Fundamentals-of-Programming)
+- [Operating Systems](https://github.com/HudemaDana/Operating-Systems)
+- [Data Structures and Algorithms](https://github.com/HudemaDana/Data-Structures-and-Algorithms)
+- [Graph Algorithms](https://github.com/HudemaDana/Graph-Algorithms)
+- [Object Oriented Programming](https://github.com/HudemaDana/Object-Oriented-Programming)
 
 </details>
 
 <details>
-  <summary>📗 Semester 3–4</summary>
+  <summary>🌑 Semester 3–4</summary>
 
-- [Advanced Programming Methods](https://github.com/HudemaDana/Advanced-Programming-Methods)  
-- [Databases](https://github.com/HudemaDana/Databases)  
-- [Computer Networks](https://github.com/HudemaDana/Computer-Networks)  
-- [Logic and Functional Programming](https://github.com/HudemaDana/Logic-and-Functional-Programming)  
-- [Web Programming](https://github.com/HudemaDana/Web)  
-- [Artificial Intelligence](https://github.com/HudemaDana/Artificial_Intelligence)  
-- [Database Management Systems](https://github.com/HudemaDana/DB)  
+- [Advanced Programming Methods](https://github.com/HudemaDana/Advanced-Programming-Methods)
+- [Databases](https://github.com/HudemaDana/Databases)
+- [Computer Networks](https://github.com/HudemaDana/Computer-Networks)
+- [Logic and Functional Programming](https://github.com/HudemaDana/Logic-and-Functional-Programming)
+- [Web Programming](https://github.com/HudemaDana/Web)
+- [Artificial Intelligence](https://github.com/HudemaDana/Artificial_Intelligence)
+- [Database Management Systems](https://github.com/HudemaDana/DB)
 
 </details>
 
 <details>
-  <summary>📙 Semester 5–6</summary>
+  <summary>🌒 Semester 5–6</summary>
 
-- [Formal Languages](https://github.com/HudemaDana/FLCD)  
-- Mobile Development (coming soon)  
-- Virtual Reality (coming soon)  
-- Cryptography (coming soon)  
-- Parallel Programming (coming soon)  
-- Semester 6 – In Progress  
+- [Formal Languages](https://github.com/HudemaDana/FLCD)
+- Mobile Development (coming soon)
+- Virtual Reality (coming soon)
+- Cryptography (coming soon)
+- Parallel Programming (coming soon)
+- Semester 6 – In Progress
+
 </details>
 
 ---
@@ -92,20 +82,20 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <!-- GitHub Trophy Wall -->
-  <img src="https://github-profile-trophy.vercel.app/?username=HudemaDana&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=HudemaDana&theme=darkhub&no-frame=true&row=1&column=6" />
 </p>
+
 ---
 
-### 📫 Let's Connect
+### 📬 Get in Touch
 
 <p align="left">
-  <a href="mailto:hudema.dana@gmail.com"><img src="https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:hudema.dana@gmail.com"><img src="https://img.shields.io/badge/email-FFDB58.svg?style=for-the-badge&logo=gmail&logoColor=0f0f0f" /></a>
   <a href="https://www.linkedin.com/in/dana-hudema-191863231/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
 
-<p align="center">
-  Thanks for visiting this dungeon 🧙‍♂️ — hope you found the cool thing you were looking for!
+<p align="center" style="color:#666666;">
+  <sub>Thanks for dropping by my small and cozy corner! </sub>
 </p>
