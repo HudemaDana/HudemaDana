@@ -92,11 +92,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <!-- GitHub Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=HudemaDana&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="90%" />
-</p>
-
-<p align="center">
   <!-- GitHub Trophy Wall -->
   <img src="https://github-profile-trophy.vercel.app/?username=HudemaDana&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
