@@ -9,7 +9,7 @@
 ### 🐝 About Me
 
 - 🏵️ Working with **.NET & C#** backend technologies
-- 🏵️ CS student diving deep into **AI**, **architecture**, and **clean code**
+- 🏵️ (Post) CS student diving deep into **AI**, **Software Engineering**, and **UI Design**
 - 🏵️ Passionate about writing efficient and maintainable software
 
 ---
