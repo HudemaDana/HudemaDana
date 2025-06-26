@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Dana Hudema 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=3F8AC2&center=true&vCenter=true&multiline=true&lines=Computer+Science+Student;Always+learning+and+building;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=3F8AC2&center=true&vCenter=true&multiline=true&lines=(Post)+Computer+Science+Student;Always+learning+and+building" alt="Typing SVG" />
 </p>
 
 ---
